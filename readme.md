@@ -15,3 +15,9 @@ To explain tamper situations, a test box was built to collect data from three di
 
 - **Tamper detection:** In some scenarios, the information acquired by the IoT device can be compromised by malicious users trying to steal or modify data. tamper detection techniques require knowing all the manipulation possibilities to detect them, which needs supervised learning.
 
+## RESOURCES:
+
+- [Python Code](https://github.com/puldavid87/anomaly_detection/blob/main/anomaly_detection.ipynb)
+- [Dataset](https://github.com/puldavid87/anomaly_detection/blob/main/anomaly_detection.csv)
+- [Webpage project](https://iot4.paulrosero-montalvo.com/anomaly/)
+- [Article](https://iot4.paulrosero-montalvo.com/gallery/Hybrid_Anomaly_Detection_Model_on_IoT_Devices%20(1).pdf)
